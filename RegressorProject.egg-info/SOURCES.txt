@@ -1,0 +1,17 @@
+README.md
+setup.py
+RegressorProject.egg-info/PKG-INFO
+RegressorProject.egg-info/SOURCES.txt
+RegressorProject.egg-info/dependency_links.txt
+RegressorProject.egg-info/top_level.txt
+scr/__init__.py
+scr/exception.py
+scr/logger.py
+scr/utils.py
+scr/components/__init__.py
+scr/components/data_ingestion.py
+scr/components/data_transformation.py
+scr/components/model_trainer.py
+scr/pipeline/__init__.py
+scr/pipeline/prediction_pipline.py
+scr/pipeline/training_pipeline.py
