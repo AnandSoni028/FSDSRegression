@@ -1,0 +1,6 @@
+[ 2024-07-09 18:53:11,968 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-07-09 18:53:15,198 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-09 18:53:15,222 ] 224 werkzeug - INFO -  * Debugger PIN: 568-990-509
+[ 2024-07-09 18:54:30,483 ] 224 werkzeug - INFO -  * Detected change in 'F:\\Python\\08-Apr Class\\15th April Live Class Data cleaning and EDA\\HousePrice ML Project\\app.py', reloading
+[ 2024-07-09 18:54:30,781 ] 224 werkzeug - INFO -  * Detected change in 'F:\\Python\\08-Apr Class\\15th April Live Class Data cleaning and EDA\\HousePrice ML Project\\app.py', reloading
+[ 2024-07-09 18:54:30,782 ] 224 werkzeug - INFO -  * Detected change in 'F:\\Python\\08-Apr Class\\15th April Live Class Data cleaning and EDA\\HousePrice ML Project\\app.py', reloading

@@ -1,0 +1,12 @@
+[ 2024-07-09 18:58:47,863 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-07-09 18:58:50,734 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-09 18:58:50,742 ] 224 werkzeug - INFO -  * Debugger PIN: 568-990-509
+[ 2024-07-09 18:58:51,090 ] 67 root - INFO - Dataframe Gathered
+[ 2024-07-09 18:58:51,316 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 18:58:51] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-09 19:07:24,899 ] 67 root - INFO - Dataframe Gathered
+[ 2024-07-09 19:07:24,977 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 19:07:24] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-09 19:07:58,868 ] 67 root - INFO - Dataframe Gathered
+[ 2024-07-09 19:07:58,907 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 19:07:58] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-09 19:16:20,997 ] 224 werkzeug - INFO -  * Detected change in 'F:\\Python\\08-Apr Class\\15th April Live Class Data cleaning and EDA\\HousePrice ML Project\\app.py', reloading
+[ 2024-07-09 19:16:20,998 ] 224 werkzeug - INFO -  * Detected change in 'F:\\Python\\08-Apr Class\\15th April Live Class Data cleaning and EDA\\HousePrice ML Project\\app.py', reloading
+[ 2024-07-09 19:16:20,998 ] 224 werkzeug - INFO -  * Detected change in 'F:\\Python\\08-Apr Class\\15th April Live Class Data cleaning and EDA\\HousePrice ML Project\\app.py', reloading

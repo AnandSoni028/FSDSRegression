@@ -1,0 +1,4 @@
+[ 2024-07-09 19:17:04,919 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-09 19:17:04,928 ] 97 werkzeug - INFO -  * Debugger PIN: 680-367-349
+[ 2024-07-09 19:17:39,644 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 19:17:39] "GET /predict HTTP/1.1" 200 -
+[ 2024-07-09 19:17:41,537 ] 97 werkzeug - INFO -  * Detected change in 'F:\\Python\\08-Apr Class\\15th April Live Class Data cleaning and EDA\\HousePrice ML Project\\app.py', reloading

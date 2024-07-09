@@ -1,0 +1,8 @@
+[ 2024-07-09 19:17:46,148 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-09 19:17:46,157 ] 97 werkzeug - INFO -  * Debugger PIN: 680-367-349
+[ 2024-07-09 19:18:00,436 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 19:18:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2024-07-09 19:18:00,531 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 19:18:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-07-09 19:18:00,574 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 19:18:00] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-07-09 19:18:01,094 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 19:18:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-07-09 19:18:01,222 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 19:18:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-07-09 19:19:11,270 ] 97 werkzeug - INFO -  * Detected change in 'F:\\Python\\08-Apr Class\\15th April Live Class Data cleaning and EDA\\HousePrice ML Project\\app.py', reloading
